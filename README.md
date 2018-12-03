@@ -22,3 +22,10 @@
   3. Make changes based on any comments left on your code. (If you're not sure what was added by who, select "Blame" with the file open in GitHub).
   4. If the changes worked, go back to your opened issue and close it.
   5. If not, reply to the issue with any new problems you have.
+
+---
+
+### Code of conduct
+- Be nice. Constructive or questioning comments only.
+- Do not steal code. Code in this repository is not licensed for reuse. 
+- Try not to break anything. Only use this repository in the ways outlined in this file.
