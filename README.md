@@ -19,7 +19,7 @@
 - Implement suggestions.
   1. Go back to the file you uploaded.
   2. Copy the code back to your IDE or editor.
-  3. Make changes based on any comments left on your code. (If you're not sure what was added by who, select "Blame" with the file open in GitHub).
+  3. Make changes based on any comments left on your code (without deleting the comments). (If you're not sure what was added by who, select "Blame" with the file open in GitHub).
   4. If the changes worked, go back to your opened issue and close it.
   5. If not, reply to the issue with any new problems you have.
 
