@@ -13,7 +13,7 @@
 - Open an issue asking for assistance.
   1. Go to the "Issues" tab at the top.
   2. Create a new issue.
-  3. Give it a descriptive title which includes the original file name.
+  3. Give it a descriptive title which includes the uploaded file name.
   4. In "Leave a comment", provide any other details about the problem or difficulty you're having.
 - Wait for someone to review your code. You'll get an email from GitHub when they're done.
 - Implement suggestions.
