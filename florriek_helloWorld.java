@@ -5,7 +5,7 @@ public class helloWorld
     public static void main(String[] args)
     {
         // this should be true, so that the program works - riley
-        Boolean thisProgramWorks = false;
+        Boolean thisProgramWorks = true;
 
         if(thisProgramWorks)
         {
