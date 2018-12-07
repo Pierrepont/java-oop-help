@@ -30,3 +30,4 @@
 - Be nice. Constructive or questioning comments only.
 - Do not steal code. Code in this repository is not licensed for reuse. 
 - Try not to break anything. Only use this repository in the ways outlined in this file.
+- Try something before you ask for help, even if it doesn't work at all.
