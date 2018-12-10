@@ -13,11 +13,10 @@ public class InserionSortRecursive {
     public static void main(String[] args) {
         int[]arr={2,91,52,4,3,1,34};
         int index=-1;
-        for(int k=0; k<arr.length; k++){
-          for(int i=1; i<arr.length; i++){
-                arr=check(arr,i);
-          }
+        for(int i=1; i<arr.length; i++){
+          arr=check(arr,i);
         }
+        
         for(int i=0; i<arr.length; i++){
             System.out.print(arr[i]+" ");
         }
@@ -33,7 +32,10 @@ public class InserionSortRecursive {
             int temp = arr[i];
             arr[i] = arr[i-1];
             arr[i-1]=temp;
-            return check(arr,i);
+            if(i<0){
+              return check(arr,i-1);
+            }  
+            
         }
     }
 }
