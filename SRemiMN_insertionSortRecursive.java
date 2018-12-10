@@ -35,6 +35,9 @@ public class InserionSortRecursive {
             if(i>0){
               return check(arr,i-1);
             }  
+            else{
+              return arr;
+            }
             
         }
     }
