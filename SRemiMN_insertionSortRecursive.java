@@ -24,7 +24,10 @@ public class InserionSortRecursive {
   //returns array with one element sorted  
   public static int[] check(int[]arr, int i){
       //checks to se if the element needs to be moved again  
-      if(arr[i-1]<arr[i]){
+      if(i=0){
+        return arr;
+      }
+      else if(arr[i-1]<arr[i]){
             return arr;
         }
       //moves element and runs method again if it can be moved
@@ -32,13 +35,7 @@ public class InserionSortRecursive {
             int temp = arr[i];
             arr[i] = arr[i-1];
             arr[i-1]=temp;
-            if(i>0){
               return check(arr,i-1);
-            }  
-            else{
-              return arr;
-            }
-            
         }
     }
 }
