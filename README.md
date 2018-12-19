@@ -24,10 +24,17 @@
   5. If the changes worked, go back to your opened issue and close it.
   6. If not, reply to the issue with any new problems you have.
 
+### Helping others
+
+- If you want to be emailed about all new issues, watch the repository.
+- When editing code added by others, only add signed comments.
+- Ask for more comments if needed, preferably referencing relevant line numbers.
+- Comment in the issue each time you change something.
+
 ---
 
 ### Code of conduct
 - Be nice. Constructive or questioning comments only.
-- Do not steal code. Code in this repository is not licensed for reuse. 
+- Do not steal code. Code in this repository is not licensed for reuse.
 - Try not to break anything. Only use this repository in the ways outlined in this file.
 - Try something before you ask for help, even if it doesn't work at all.
